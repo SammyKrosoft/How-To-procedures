@@ -15,10 +15,10 @@ Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-pr
 
 # Principle
 
-The help note on the Server Configuration cells gives the following
+The help note on the Server Configuration cells of the Exchange Role Requirements calculator gives the following
 formula:
 
-**X / (N \* Y)**
+> **X / (N \* Y)**
 
 Where:
 
