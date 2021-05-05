@@ -158,4 +158,4 @@ Utilization should be below 80%:
 
 # Annex
 
-7.  ![](media/image12.png)
+![](media/image12.png)
