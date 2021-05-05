@@ -153,7 +153,11 @@ calculate the DAG structure, or put a number of servers yourself:
 ![](media/image10.png)
 
 To check the results, switch to the "Role Requirements" tab, and the CPU
-Utilization should be below 80%:
+Utilization should be below 80% - the first example below indicates we properly sized our vCPUs:
+
+![image](https://user-images.githubusercontent.com/33433229/117171676-15117800-ad99-11eb-88b2-27cd745115ae.png)
+
+However the below example incidates we don't have enough vCPUs or vCPU power for our configuration:
 
 ![](media/image11.png)
 
