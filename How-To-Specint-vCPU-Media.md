@@ -9,7 +9,8 @@ For a physical machine, it's straightforward. But for a virtual machine,
 it's a bit more complex.
 
 NOTE: you can download the Exchange Processor Query Tool at the
-following address: [Exchange Processor Query Tool - Microsoft Tech
+following address (right click to open on a new tab):
+> [Exchange Processor Query Tool - Microsoft Tech
 Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-processor-query-tool/ba-p/589402)
 
 # Principle
