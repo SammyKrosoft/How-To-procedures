@@ -92,7 +92,7 @@ If you happen to find your exact server model, you can remove all other
 rows of the result table, and only keep the one corresponding to your
 server model:
 
-![](media/image6.emf){width="6.5in" height="0.2833333333333333in"}
+![](media/image6.png){width="6.5in" height="0.2833333333333333in"}
 
 The tool will put the average "Result" number, either the average of all
 the 44 CPUs servers results, or the result of the model you found if you
