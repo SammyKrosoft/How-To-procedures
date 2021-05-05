@@ -68,38 +68,34 @@ on the **SPECint2006 Rate Value** column. And you put 22 on the "
 
 Example I put the CPU number on the corresponding field:
 
-![](media/image2.png){width="5.104878608923885in"
-height="0.3854702537182852in"}
+![](media/image2.png)
 
 And I search on the result table for a **Dell PowerEdge R740** with an
 Intel Xeon Gold **6152** processor, clicking the "**Query**" button:
 
-![](media/image3.png){width="4.313101487314086in"
-height="0.35421587926509185in"}
+![](media/image3.png)
 
 And depending on the number of cores corresponding to your server you
 put on the EPQ tool, here 44:
 
-![](media/image4.png){width="4.448537839020123in"
-height="0.3750524934383202in"}
+![](media/image4.png)
 
 The tool does an average of all Results for 44 cores servers among the
 results from the resulting table:
 
-![](media/image5.png){width="6.5in" height="1.7951388888888888in"}
+![](media/image5.png)
 
 If you happen to find your exact server model, you can remove all other
 rows of the result table, and only keep the one corresponding to your
 server model:
 
-![](media/image6.png){width="6.5in" height="0.2833333333333333in"}
+![](media/image6.png)
 
 The tool will put the average "Result" number, either the average of all
 the 44 CPUs servers results, or the result of the model you found if you
 remove all other servers from the table manually:
 
-![](media/image7.png){width="5.104878608923885in"
-height="1.1980839895013122in"}
+![](media/image7.png)
 
 -   That's the SpecInt number of the host. **It's NOT the number we'll
     put on the SPECint2006 Rate value cell yet**. We have to use the
@@ -135,7 +131,7 @@ core**, **each exchange server will have 22 vCPUs**
 **[That 22 vCPUs we put on the "Processor Cores/Server" cell of the
 Exchange Roles Requirements Calculator]{.ul}, as shown below:**
 
-![](media/image8.png){width="6.5in" height="1.0902777777777777in"}
+![](media/image8.png)
 
 And we multiply the result of X/(N\*Y) by this number of vCPU we'll
 assign to our server (22 vCPUs) to get the SPECint2006 Rate Value we'll
@@ -145,7 +141,7 @@ put on the calculator:
 to 114. Here's the value we put on the Exchange Roles Requirements
 Calculator:**
 
-![](media/image9.png){width="6.5in" height="1.0777777777777777in"}
+![](media/image9.png)
 
 # Results -- Conclusions
 
@@ -153,14 +149,13 @@ Before checking the results, check first the number of servers per DAG
 that you plan to deploy, you can let the calculator to automatically
 calculate the DAG structure, or put a number of servers yourself:
 
-![](media/image10.png){width="6.5in" height="1.5131944444444445in"}
+![](media/image10.png)
 
 To check the results, switch to the "Role Requirements" tab, and the CPU
 Utilization should be below 80%:
 
-![](media/image11.png){width="6.5in" height="1.9680555555555554in"}
+![](media/image11.png)
 
 # Annex
 
-7.  ![](media/image12.png){width="5.280184820647419in"
-    height="7.023886701662292in"}
+7.  ![](media/image12.png)
