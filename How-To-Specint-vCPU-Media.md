@@ -3,7 +3,7 @@
 We need to fill the following from the Exchange Roles Requirements
 Calculator:
 
-![](media\image1.png){width="6.5in" height="0.9659722222222222in"}
+![](\media\image1.png){width="6.5in" height="0.9659722222222222in"}
 
 For a physical machine, it's straightforward. But for a virtual machine,
 it's a bit more complex.
