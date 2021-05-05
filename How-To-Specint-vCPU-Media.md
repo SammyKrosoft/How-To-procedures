@@ -18,7 +18,7 @@ Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-pr
 The help note on the Server Configuration cells of the Exchange Role Requirements calculator gives the following
 formula:
 
-> **X / (N \* Y)**
+**X / (N \* Y)**
 
 Where:
 
